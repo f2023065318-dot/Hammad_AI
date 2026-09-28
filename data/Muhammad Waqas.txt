@@ -1,0 +1,49 @@
+MUHAMMAD WAQAS
+Email: malikhamad6445@gmail.com | Phone: 03085315318 | Location: Lahore, Pakistan
+PROFESSIONAL SUMMARY
+A highly passionate and dedicated Software Engineering undergraduate at UMT with a strong academic background and a solid foundation in analytical thinking. Proven track record of excellence in academics and hands-on experience in software development, ranging from system management tools to cutting-edge Blockchain and Artificial Intelligence. Committed to leveraging technical skills and leadership qualities to contribute effectively to innovative software projects.
+CORE STRENGTHS
+Team Leadership: Experienced in managing group dynamics and leading university projects.
+Critical Thinking & Problem Solving: Expert in analyzing complex problems and implementing logical solutions.
+Adaptability: Quick learner, capable of mastering new technologies and frameworks efficiently.
+EDUCATION
+BS Software Engineering | University of Management and Technology (UMT), Lahore
+2023 – 2027 (Expected)
+Current CGPA: 3.0 / 4.00
+
+ICS | Degree College Layyah
+Marks: 979 / 1100
+
+Matriculation | Govt High School Layyah
+Marks: 950 / 1100
+TECHNICAL SKILLS
+Programming & Tools: Rust, C++, Python, Shell Programming (Bash), VS Code
+Specialized Fields: Blockchain (Solana/Anchor), Artificial Intelligence (Regression, Classification, Decision Trees)
+Software Proficiency: Microsoft Word, Microsoft Excel
+Web Technologies: HTML5, CSS3
+Core CS Concepts: Data Structures & Algorithms (DSA), Software Design & Architecture (SDA), Operating Systems
+PROJECTS
+Diabetes Prediction Model (Artificial Intelligence)
+Developed and trained a machine learning model using Regression and Classification techniques. Utilized Decision Trees to predict diabetes with high accuracy. The project was highly recognized and accepted for its effective implementation and results.
+Solana Passport (Blockchain)
+Participated in the Solana Hackathon, developing a decentralized identity solution. Utilized Rust and Anchor for smart contract development and HTML for the frontend.
+Quick Quiz Evaluation System (SDA)
+Developed a console-based application focusing on clean software architecture using Python.
+Terminal-Based Chatbot (Operating Systems)
+Built a functional command-line chatbot using Shell Programming.
+File & Management Systems (DSA & C++)
+Developed File Management, Library, and Book Management systems using C++ and DSA.
+Ongoing Projects (Software Construction & Development)
+Student Management System: Designing a robust system to manage student data and academic records.
+Task Management System: Developing an application to organize, track, and prioritize tasks efficiently.
+CERTIFICATIONS & SEMINARS
+21st Century Skills: Completed professional course on modern workplace essential skills.
+IEEE Seminar (UMT): Attended technical seminar focused on emerging engineering trends.
+Art of Presentation: Attended seminar by School of Liberal Arts on effective communication.
+PLAYING & INTERESTS
+Book Reading: Enthusiastic reader of technical literature.
+Researching: Passionate about staying updated with the latest technological advancements.
+LANGUAGES
+Urdu (Native)
+English (Professional)
+

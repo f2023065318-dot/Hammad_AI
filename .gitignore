@@ -1,0 +1,35 @@
+# Environment variables (SECRET - never push to GitHub)
+.env
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Vector store (auto-generated)
+vectorstore/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py[cod]
+*$py.class
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# VS Code
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Model cache
+.cache/
